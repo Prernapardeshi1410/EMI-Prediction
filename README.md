@@ -36,6 +36,4 @@ The repository contains the source code and other required project files.
 
 The EMI prediction is an estimate and should not be considered a guaranteed loan offer or official financial advice.
 
-Author
 
-Project: EMI Prediction
